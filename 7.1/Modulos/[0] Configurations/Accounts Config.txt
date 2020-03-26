@@ -1,0 +1,14 @@
+
+
+
+
+Crear el Bloque de: Configuraciones de Monitoreo
+
+Crear los campos de:
+=====================================================================================
+Campo 													Tipo
+=====================================================================================
+Emails de Notificación en Monitoreos					Area de Texto
+Plantilla de correo										Texto
+Email De 												Texto
+Idioma de la Plantilla 									Lista (Es, Us)
